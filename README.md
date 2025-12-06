@@ -71,6 +71,26 @@ High reconstruction error → potential attack
 Typically outperforms Isolation Forest in non-linear cases
 
 📈 Evaluation Metrics
+## 📊 Visualizations
+
+### 🌀 PCA Anomaly Visualization  
+![PCA Plot](images/pca_plot.png)
+
+---
+
+### 🔥 ROC Curve  
+![ROC Curve](images/roc_curve.png)
+
+---
+
+### 🟦 Confusion Matrix — Isolation Forest  
+![Confusion Matrix Isolation](images/confusion_matrix_isolation.png)
+
+---
+
+### 🟥 Confusion Matrix — Autoencoder  
+![Confusion Matrix Autoencoder](images/confusion_matrix_autoencoder.png)
+
 
 Confusion Matrix
 
