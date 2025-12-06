@@ -79,7 +79,7 @@ Typically outperforms Isolation Forest in non-linear cases
 ---
 
 ### 🔥 ROC Curve  
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](images/roc_curve.jpg)
 
 ---
 
